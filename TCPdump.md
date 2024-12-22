@@ -1,4 +1,4 @@
-# Tcpdump - Capture your first packet 
+# Tcpdump - Capturing packets 
 
 ## Scenario 
 Here, I'm a network analyst who needs to use tcpdump to capture and analyze live network traffic from a Linux virtual machine.
